@@ -3,12 +3,12 @@
 void main()
 {
  int i,n,tab;
- printf("emter a num : ");
- scanf("%d",&n);//7
+ printf("enter a num : ");
+ scanf("%d",&n);//5
  printf("table of %d :\n",n);
  for(i=1;i<=10;i++)//1
  {
     tab=i*n;
-    printf("%d\n",tab);
+    printf("%d * %d = %d\n",n,i,tab);
  }
 }
