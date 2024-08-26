@@ -7,7 +7,7 @@ void main()
   while(i<5)
   {
     printf("hello world institute\n");
-    i++;
+    i++;//5
   }
   printf("after while loop");
 }
