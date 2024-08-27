@@ -42,6 +42,6 @@ void main()
       printf("%d / %d = %d\n",a,b,ans);
    break;
    case 5 : break;
-   default:printf("enter num 1 to 5 please");
+   default:printf("enter num 1 to 5 please\n");
  }
 }
