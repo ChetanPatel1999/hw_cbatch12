@@ -9,6 +9,6 @@ void main()
     {
        continue;
     }
-     printf("%d \n",i);// 1 2 3 4 6 7 8 9 10
+     printf("%d \n",i);// 1 2 3 4 5 7 8 9 10
  }
 }
