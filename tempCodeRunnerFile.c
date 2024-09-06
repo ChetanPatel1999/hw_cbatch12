@@ -1,1 +1,1 @@
-printf("please try after %d year",18-age)
+i
