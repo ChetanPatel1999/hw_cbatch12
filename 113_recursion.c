@@ -15,5 +15,4 @@ void main()
 {
     int res = num1_10(1,15);
     printf("sum 1 to 10 = %d",res);
-
 }
