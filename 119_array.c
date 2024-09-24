@@ -6,11 +6,14 @@ void main()
     printf("enter array size :");
     scanf("%d", &n);//3
     int arr[n], i;
+
     printf("enter array element : ");
-    for (i = 0; i < n; i++) // 5
+    for (i = 0; i < n; i++) //5
     {
-        scanf("%d", &arr[i]); // arr[4]
+        scanf("%d", &arr[i]); 
     }
+
+
     printf("array element are : ");
     for (i = 0; i < n; i++)
     {
