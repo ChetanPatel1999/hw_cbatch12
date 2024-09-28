@@ -22,6 +22,6 @@ void main()
         ptr++;
     }
     ptr=temp;
-    free(ptr);
+    free(ptr); // its free dynamically allocate memory
     //we write also code belove ....
 }
